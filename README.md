@@ -9,7 +9,7 @@ Open a terminal and run:
 
 bash
 Copy code
-python server.py
+python ws_server.py
 The server will start and wait for client connections.
 
 2. Serve the HTML Page
