@@ -1,3 +1,9 @@
+Install Necessary Python Packages
+bash
+Copy code
+pip install opencv-python websockets
+
+
 1. Start the Python Server
 Open a terminal and run:
 
